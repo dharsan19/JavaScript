@@ -7,6 +7,7 @@ function increment() {
     countpeople.innerText = count
 }
 
+
 function save() {
     let countstr = count + " - "
     saveel.textContent += countstr
